@@ -1,6 +1,13 @@
 # 💫 About Me: 
-Hii, I'm Rakesh Chandra Tripathy
-I’m currently working on Full Stack Web Development projects (MERN Stack)<br><br>👯 I’m looking to collaborate on real-world web applications and open-source projects<br><br>🤝 I’m looking for help with advanced backend systems, scalability, and system design<br><br>🌱 I’m currently learning Data Structures & Algorithms and improving problem-solving skills<br><br>💬 Ask me about JavaScript, React, Node.js, and Full Stack Development<br><br>⚡ Fun fact: I’m a 5⭐ coder and love solving real-world problems through code
+Hi, I'm Rakesh Chandra Tripathy 👋  
+Full Stack Developer (MERN) | DSA Enthusiast | 5⭐ Coder 🚀
+
+🔭 I’m currently building scalable web applications  
+👯 I’m open to collaborating on real-world and open-source projects  
+🤝 I’m exploring advanced backend systems and system design  
+🌱 Currently improving DSA and problem-solving skills  
+💬 Ask me about JavaScript, React, Node.js, and Full Stack Development  
+⚡ Fun fact: I enjoy turning ideas into real-world solutions through code
 
 
 ## 🌐 Socials:
