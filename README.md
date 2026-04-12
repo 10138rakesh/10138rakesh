@@ -1,9 +1,10 @@
-# 💫 About Me:
- I’m currently working on Full Stack Web Development projects (MERN Stack)<br><br>👯 I’m looking to collaborate on real-world web applications and open-source projects<br><br>🤝 I’m looking for help with advanced backend systems, scalability, and system design<br><br>🌱 I’m currently learning Data Structures & Algorithms and improving problem-solving skills<br><br>💬 Ask me about JavaScript, React, Node.js, and Full Stack Development<br><br>⚡ Fun fact: I’m a 5⭐ coder and love solving real-world problems through code
+# 💫 About Me: 
+Hii, I'm Rakesh Chandra Tripathy
+I’m currently working on Full Stack Web Development projects (MERN Stack)<br><br>👯 I’m looking to collaborate on real-world web applications and open-source projects<br><br>🤝 I’m looking for help with advanced backend systems, scalability, and system design<br><br>🌱 I’m currently learning Data Structures & Algorithms and improving problem-solving skills<br><br>💬 Ask me about JavaScript, React, Node.js, and Full Stack Development<br><br>⚡ Fun fact: I’m a 5⭐ coder and love solving real-world problems through code
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rakesh.chandra_23/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rakesh10138/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tripathy10138@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rakesh.chandra_23/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh10138/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tripathy10138@gmail.com) 
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
