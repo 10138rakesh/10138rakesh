@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,2,3,5,9&height=280&section=header&text=Rakesh%20Chandra%20Tripathy&fontSize=60&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer%20|%20DSA%20Enthusiast%20|%20Problem%20Solver&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;DSA+Lover;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things" />
 
 <br/>
 
